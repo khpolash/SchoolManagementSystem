@@ -1,0 +1,10 @@
+G:\ASP-DotNet\SchoolSite\SchoolSite\bin\SchoolSite.dll.config
+G:\ASP-DotNet\SchoolSite\SchoolSite\bin\SchoolSite.dll
+G:\ASP-DotNet\SchoolSite\SchoolSite\bin\SchoolSite.pdb
+G:\ASP-DotNet\SchoolSite\SchoolSite\bin\EntityFramework.dll
+G:\ASP-DotNet\SchoolSite\SchoolSite\bin\EntityFramework.SqlServer.dll
+G:\ASP-DotNet\SchoolSite\SchoolSite\bin\EntityFramework.xml
+G:\ASP-DotNet\SchoolSite\SchoolSite\bin\EntityFramework.SqlServer.xml
+G:\ASP-DotNet\SchoolSite\SchoolSite\obj\Debug\SchoolSite.dll
+G:\ASP-DotNet\SchoolSite\SchoolSite\obj\Debug\SchoolSite.pdb
+G:\ASP-DotNet\SchoolSite\SchoolSite\bin\SRVTextToImage.dll

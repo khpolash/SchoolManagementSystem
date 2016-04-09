@@ -1,0 +1,21 @@
+/*--
+	Theme Name: Universe
+	Theme URI: xxx
+	Author: Esmet Hajrizi
+	Author URI: www.esmeth.com
+	Description: College Education Responsive Template
+	Version: 1.0
+	License URI: http://
+	Tags:
+--*/
+
+@import "animate.css";
+@import "color-scheme.css";
+@import "misc.css";
+@import "main.css";
+@import "responsive.css";
+@import "responsive-calendar.css";
+@import "form-elements.css";
+@import "form-style.css";
+@import "sidemenu.css";
+
